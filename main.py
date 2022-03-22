@@ -56,7 +56,7 @@ def parse_bids(division):
 
 
 if __name__ == '__main__':
-    division = 'AL East'
+    division = 'NL Central'
     by_team, by_player = parse_bids(division)
     with open(f'{division} by Player.csv', 'w') as f:
         for k, v in by_player.items():
