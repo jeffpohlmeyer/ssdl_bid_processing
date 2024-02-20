@@ -21,7 +21,7 @@ def get_player_string(name, player, team=False):
         player_string = f'{name},'
     else:
         player_string = f'[b]{player.Team}[/b]:'
-    player_string += f' {player.Years}'
+    player_string += f' {int(player.Years)}'
     player_string += f' year{"s" if player.Years > 1 else ""}'
     player_string += f' at {player.Avg:.2f} per year'
     if breakdown is not None:
@@ -56,7 +56,7 @@ def parse_bids(division):
 
 
 if __name__ == '__main__':
-    division = '10-Apr'
+    division = 'NL East'
     by_team, by_player = parse_bids(division)
     with open(f'{division} by Player.csv', 'w') as f:
         for k, v in by_player.items():
