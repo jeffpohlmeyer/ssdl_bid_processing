@@ -1,80 +1,40 @@
-Team,Player,Years,Avg,Year 1,Year 2,Year 3,Year 4,Year 5,Order
-ATL,"Bryan Reynolds, OF PIT (TOR 2nd)",3,7,,,,,,1
-ATL,"Rowdy Tellez, 1B MIL (PIT 4th)",3,1.25,,,,,,1
-ATL,"Dustin May, SP LAD (PIT 5th)",3,1.5,,,,,,1
-ATL,"Nico Hoerner, 2B/SS CHC (BOS 1st)",3,4,,,,,,1
-PIT,"Sandy Alcantara, SP MIA (ARZ 4th)",5,4.76,,,,,,2
-PIT,"Brandon Lowe, 2B TB (NYM 3rd)",3,3.76,,,,,,2
-PIT,"Bryan Reynolds, OF PIT (TOR 2nd)",3,4.76,,,,,,2
-PIT,"Nico Hoerner, 2B/SS CHC (BOS 1st)",5,4.76,,,,,,2
-OAK,"Sandy Alcantara, SP MIA (ARZ 4th)",5,7,8.4,5.6,5.6,7,8.4,3
-OAK,"Brandon Lowe, 2B TB (NYM 3rd)",3,3,2.4,3,3.6,,,3
-OAK,"Tommy Edman, 2B STL (PIT 2nd)",3,5,4,5,6,,,3
-OAK,"Chris Paddack, SP/RP MIN (PIT 5th)",3,1.5,,,,,,3
-OAK,"Dustin May, SP LAD (PIT 5th)",5,6,7.2,4.8,4.8,6,7.2,3
-OAK,"Devin Williams, RP MIL (LAD 2nd)",4,7,5.6,5.6,8.4,8.4,,3
-OAK,"Will Smith, C LAD (KC 2nd)",3,6,4.8,6,7.2,,,3
-OAK,"Alex Verdugo, OF NYY (TOR 3rd)",3,2.75,2.2,2.75,3.3,,,3
-OAK,"Bryan Reynolds, OF PIT (TOR 2nd)",3,6.25,5.05,6.25,7.45,,,3
-OAK,"Nico Hoerner, 2B/SS CHC (BOS 1st)",3,6,4.8,6,7.2,,,3
-TB,"Sandy Alcantara, SP MIA (ARZ 4th)",5,8.5,,,,,,4
-TB,"Brandon Lowe, 2B TB (NYM 3rd)",3,3,,,,,,4
-TB,"Dustin May, SP LAD (PIT 5th)",4,3.75,,,,,,4
-BOS,"Will Smith, C LAD (KC 2nd)",3,2.12,,,,,,5
-BOS,"Brandon Lowe, 2B TB (NYM 3rd)",3,2.21,,,,,,5
-BOS,"Rowdy Tellez, 1B MIL (PIT 4th)",3,0.77,,,,,,5
-BOS,"Tommy Edman, 2B STL (PIT 2nd)",3,3.57,,,,,,5
-BOS,"Chris Paddack, SP/RP MIN (PIT 5th)",3,0.67,,,,,,5
-BOS,"Dustin May, SP LAD (PIT 5th)",5,1.27,,,,,,5
-BOS,"Devin Williams, RP MIL (LAD 2nd)",3,6.78,,,,,,5
-BOS,"Alex Verdugo, OF NYY (TOR 3rd)",3,0.47,,,,,,5
-BOS,"Bryan Reynolds, OF PIT (TOR 2nd)",3,3.57,,,,,,5
-NYM,"Will Smith, C LAD (KC 2nd)",3,6,6.5,6,5.5,,,6
-NYM,"Sandy Alcantara, SP MIA (ARZ 4th)",5,6.5,7.7,6.2,6.2,6.2,6.2,6
-NYM,"Devin Williams, RP MIL (LAD 2nd)",3,4.5,5,4.5,4,,,6
-NYM,"Chris Paddack, SP/RP MIN (PIT 5th)",3,4,4.5,4,3.5,,,6
-NYM,"Nico Hoerner, 2B/SS CHC (BOS 1st)",4,4,,,,,,6
-NYM,"Dustin May, SP LAD (PIT 5th)",5,4,4.5,3.5,4,4,4,6
-NYM,"AJ Minter, SP ATL (OAK 4th)",3,1.5,,,,,,6
-CLE,"Sandy Alcantara, SP MIA (ARZ 4th)",4,3.3,,,,,,7
-CLE,"Brandon Lowe, 2B TB (NYM 3rd)",4,1.4,,,,,,7
-CLE,"Dustin May, SP LAD (PIT 5th)",4,3.39,,,,,,7
-CLE,"Will Smith, C LAD (KC 2nd)",3,4.16,,,,,,7
-CLE,"Bryan Reynolds, OF PIT (TOR 2nd)",3,4.56,,,,,,7
-CLE,"Alex Verdugo, OF NYY (TOR 3rd)",3,1.1,,,,,,7
-DET,"Devin Williams, RP MIL (LAD 2nd)",3,8,9,8,7,,,8
-ARZ,"Tommy Edman, 2B STL (PIT 2nd)",3,5,,,,,,9
-ARZ,"Chris Paddack, SP/RP MIN (PIT 5th)",3,1,,,,,,9
-ARZ,"Dustin May, SP LAD (PIT 5th)",5,1,,,,,,9
-ARZ,"Will Smith, C LAD (KC 2nd)",4,2,,,,,,9
-ARZ,"Bryan Reynolds, OF PIT (TOR 2nd)",4,5,,,,,,9
-ARZ,"Nico Hoerner, 2B/SS CHC (BOS 1st)",5,1.5,,,,,,9
-TOR,"Sandy Alcantara, SP MIA (ARZ 4th)",4,6,,,,,,10
-TOR,"Dustin May, SP LAD (PIT 5th)",5,6.3,,,,,,10
-TOR,"Nico Hoerner, 2B/SS CHC (BOS 1st)",5,5.6,,,,,,10
-LAD,"Sandy Alcantara, SP MIA (ARZ 4th)",5,6.6,,,,,,11
-LAD,"Brandon Lowe, 2B TB (NYM 3rd)",3,0.8,,,,,,11
-LAD,"Tommy Edman, 2B STL (PIT 2nd)",5,1.2,,,,,,11
-LAD,"Chris Paddack, SP/RP MIN (PIT 5th)",5,0.45,,,,,,11
-LAD,"Dustin May, SP LAD (PIT 5th)",5,1.8,,,,,,11
-LAD,"Will Smith, C LAD (KC 2nd)",3,3.2,,,,,,11
-LAD,"Nico Hoerner, 2B/SS CHC (BOS 1st)",5,0.7,,,,,,11
-BOS,"AJ Minter, SP ATL (OAK 4th)",3,1.17,,,,,,12
-NYM,"Bryan Reynolds, OF PIT (TOR 2nd)",3,5.5,6,5.5,5,,,13
-SD,"Devin Williams, RP MIL (LAD 2nd)",3,6.81,,,,,,14
-CHC,"Sandy Alcantara, SP MIA (ARZ 4th)",3,6.5,,,,,,15
-CHC,"AJ Minter, SP ATL (OAK 4th)",3,0.41,,,,,,15
-CHC,"Brandon Lowe, 2B TB (NYM 3rd)",3,0.99,,,,,,15
-CHC,"Tommy Edman, 2B STL (PIT 2nd)",3,0.99,,,,,,15
-CHC,"Chris Paddack, SP/RP MIN (PIT 5th)",3,5,4,6,5,,,15
-CHC,"Dustin May, SP LAD (PIT 5th)",3,6.19,,,,,,15
-CHC,"Devin Williams, RP MIL (LAD 2nd)",4,8.69,,,,,,15
-CHC,"Will Smith, C LAD (KC 2nd)",4,5.69,,,,,,15
-CHC,"Alex Verdugo, OF NYY (TOR 3rd)",3,0.69,,,,,,15
-CHC,"Bryan Reynolds, OF PIT (TOR 2nd)",3,6.8,,,,,,15
-CHC,"Nico Hoerner, 2B/SS CHC (BOS 1st)",3,4,,,,,,15
-WAS,"Nico Hoerner, 2B/SS CHC (BOS 1st)",4,5,,,,,,16
-WAS,"Tommy Edman, 2B STL (PIT 2nd)",4,5,,,,,,16
-WAS,"Brandon Lowe, 2B TB (NYM 3rd)",3,3,,,,,,16
-WAS,"Sandy Alcantara, SP MIA (ARZ 4th)",4,8,,,,,,16
-ATL,"Sandy Alcantara, SP MIA (ARZ 4th)",3,0.7,,,,,,17
+Team,Player,Years,Avg,Year 1,Year 2,Year 3,Year 4,Year 5,Order,,Min,Max,MinRange,MaxRange,IsValid
+NYY,"Aaron Civale, SP MIL - #370 (4th Round Pick) - Royals",3,2.5,,,,,,1,,,,,,
+NYY,"Alec Bohm, 3B PHI - #89 (2nd Round Pick) - Phillies",3,6,,,,,,1,,,,,,
+NYY,"Emmanuel Clase, RP CLE - #30 (1st Round Pick) - Dodgers",4,9,,,,,,1,,,,,,
+NYY,"David Bednar, RP PIT - #469 (4th Round Pick) - Athletics",3,2.75,,,,,,1,,,,,,
+BOS,"Emmanuel Clase, RP CLE - #30 (1st Round Pick) - Dodgers",3,6.31,,,,,,2,,,,,,
+BOS,"Alec Bohm, 3B PHI - #89 (2nd Round Pick) - Phillies",3,4.17,,,,,,2,,,,,,
+BOS,"Tyler O'Neill, OF BAL - #102 (2nd Round Pick) - Phillies",3,3.68,,,,,,2,,,,,,
+BOS,"Cedric Mullins, OF BAL - #79 (2nd Round Pick) - Rays",3,2.78,,,,,,2,,,,,,
+BOS,"David Bednar, RP PIT - #469 (4th Round Pick) - Athletics",3,3.12,,,,,,2,,,,,,
+BOS,"Tony Gonsolin, SP LAD - #9999 (5th Round Pick) - Dodgers",3,3.78,,,,,,2,,,,,,
+TB,"Emmanuel Clase, RP CLE - #30 (1st Round Pick) - Dodgers",4,9.25,7,8.4,10,11.6,,3,,7,11.6,7.4,11.1,FALSE
+CLE,"David Bednar, RP PIT - #469 (4th Round Pick) - Athletics",3,2.45,,,,,,4,,,,,,
+CLE,"Alec Bohm, 3B PHI - #89 (2nd Round Pick) - Phillies",3,5.16,,,,,,4,,,,,,
+SD,"Alec Bohm, 3B PHI - #89 (2nd Round Pick) - Phillies",3,3.43,,,,,,5,,,,,,
+SD,"Emmanuel Clase, RP CLE - #30 (1st Round Pick) - Dodgers",3,7.73,,,,,,5,,,,,,
+PIT,"Tyler O'Neill, OF BAL - #102 (2nd Round Pick) - Phillies",3,2.76,,,,,,6,,,,,,
+PIT,"Alec Bohm, 3B PHI - #89 (2nd Round Pick) - Phillies",4,2.76,,,,,,6,,,,,,
+PIT,"Emmanuel Clase, RP CLE - #30 (1st Round Pick) - Dodgers",3,5.76,,,,,,6,,,,,,
+PIT,"Aaron Civale, SP MIL - #370 (4th Round Pick) - Royals",3,1.26,,,,,,6,,,,,,
+OAK,"Tyler O'Neill, OF BAL - #102 (2nd Round Pick) - Phillies",3,3.5,,,,,,7,,,,,,
+OAK,"Alec Bohm, 3B PHI - #89 (2nd Round Pick) - Phillies",3,5,6,4,5,,,7,,4,6,4,6,TRUE
+OAK,"Cedric Mullins, OF BAL - #79 (2nd Round Pick) - Rays",3,2,,,,,,7,,,,,,
+OAK,"Tony Gonsolin, SP LAD - #9999 (5th Round Pick) - Dodgers",3,1,,,,,,7,,,,,,
+OAK,"Emmanuel Clase, RP CLE - #30 (1st Round Pick) - Dodgers",5,5,4,4,5,6,6,7,,4,6,4,6,TRUE
+OAK,"Jonathan India, 2B KC - #127 (2nd Round Pick) - Diamondbacks",3,2.5,2,2.5,3,,,7,,2,3,2,3,TRUE
+OAK,"Aaron Civale, SP MIL - #370 (4th Round Pick) - Royals",3,0.75,,,,,,7,,,,,,
+OAK,"Daulton Varsho, OF TOR - #187 (3rd Round Pick) - Pirates",3,1.25,,,,,,7,,,,,,
+TOR,"Sixto Sanchez, SP MIA - #1424 (5th Round Pick) - Phillies",5,2.1,,,,,,8,,,,,,
+TOR,"Alec Bohm, 3B PHI - #89 (2nd Round Pick) - Phillies",3,5.3,,,,,,8,,,,,,
+TOR,"Tony Gonsolin, SP LAD - #9999 (5th Round Pick) - Dodgers",3,2.2,,,,,,8,,,,,,
+TOR,"Emmanuel Clase, RP CLE - #30 (1st Round Pick) - Dodgers",5,4.9,,,,,,8,,,,,,
+ATL,"Aaron Civale, SP MIL - #370 (4th Round Pick) - Royals",3,2.05,,,,,,9,,,,,,
+ATL,"David Bednar, RP PIT - #469 (4th Round Pick) - Athletics",3,3.5,,,,,,9,,,,,,
+ARZ,"Alec Bohm, 3B PHI - #89 (2nd Round Pick) - Phillies",3,4.65,,,,,,10,,,,,,
+ARZ,"Tony Gonsolin, SP LAD - #9999 (5th Round Pick) - Dodgers",4,1.25,,,,,,10,,,,,,
+ARZ,"Emmanuel Clase, RP CLE - #30 (1st Round Pick) - Dodgers",3,8,,,,,,10,,,,,,
+ARZ,"Aaron Civale, SP MIL - #370 (4th Round Pick) - Royals",3,2.1,,,,,,10,,,,,,
+ARZ,"David Bednar, RP PIT - #469 (4th Round Pick) - Athletics",3,1.9,,,,,,10,,,,,,
+WAS,"Alec Bohm, 3B PHI - #89 (2nd Round Pick) - Phillies",3,3.33,3,3.5,3.49,,,11,,3,3.5,2.664,3.996,TRUE
